@@ -1,1 +1,1 @@
-# PET-LGS
+# LGS-PET
