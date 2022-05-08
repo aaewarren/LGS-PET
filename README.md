@@ -4,7 +4,7 @@ This code documents the image pre-processing steps relevant to the following pap
 
 _Frontoparietal 18FDG-PET hypo-metabolism in Lennox- Gastaut syndrome: further evidence for a shared epileptic network._
 
-Tom Balfroid, Aaron E.L Warren, Linda J. Dalic, Alec Aeby, Salvatore U. Berlangieri, John S. Archer
+By: Tom Balfroid, Aaron E.L Warren, Linda J. Dalic, Alec Aeby, Salvatore U. Berlangieri, John S. Archer
 
 Analyses were performed using the High Performance Computing (HPC) system ([Spartan](https://dashboard.hpc.unimelb.edu.au)) operated by Research Computing Services at The University of Melbourne:
 
