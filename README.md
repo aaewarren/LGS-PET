@@ -16,4 +16,4 @@ _Usage: bash LGS_PET_PP.sh_
 
 The analysis makes use of MNI 6th-generation symmetric T1-weighted brain templates. These templates are included in this repository (see .nii.gz images in the sub-folder named MNI_152_6THGEN_SYMMETRIC) and were obtained from here: http://nist.mni.mcgill.ca/mni-icbm152-non-linear-6th-generation-symmetric-average-brain-stereotaxic-registration-model/
 
-A .txt file contaning subject IDs is also required and is included here (SUBJECTS_GROUPS_HEMFLIP.txt)
+A .txt file contaning subject IDs is also required and is included here (SUBJECTS_GROUPS_HEMFLIP.txt).
