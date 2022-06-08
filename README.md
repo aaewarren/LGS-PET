@@ -2,7 +2,7 @@
 
 This code documents the image pre-processing steps relevant to the following paper:
 
-_Frontoparietal <sup>18</sup>FDG-PET hypo-metabolism in Lennox-Gastaut syndrome: further evidence for a shared epileptic network._
+_Frontoparietal <sup>18</sup>F-FDG-PET hypo-metabolism in Lennox-Gastaut syndrome: further evidence highlighting the key network._
 
 By: Tom Balfroid, Aaron E.L Warren, Linda J. Dalic, Alec Aeby, Salvatore U. Berlangieri, John S. Archer
 
